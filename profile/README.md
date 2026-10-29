@@ -4,7 +4,12 @@ I run [Bonnie Doone Consulting](https://bonniedoone.ai), an engineering practice
 
 The repos here are small, practical templates pulled from that work. They're meant to be read, copied, and changed. If one saves you a weekend, that's a win.
 
-### Projects
+### Products I've built
+
+- **[SharedStead](https://sharedstead.com)**: A private home base for families who share a property, with a fair booking calendar, house manuals, and photos. Built with Go, React, and Postgres.
+- **[PlayDate](https://playdatenearby.com)**: Matches neighborhood families with same-age kids for playground meetups, organized by city and neighborhood. Built with Go, React, and Astro on AWS.
+
+### Open-source projects
 
 - **[stripe-eventbridge-sqs-go](https://github.com/BonnieDooneConsulting/stripe-eventbridge-sqs-go)**: Stripe events through Amazon EventBridge and SQS to a Go worker, with a LocalStack setup for local testing.
 <!-- Uncomment each line as the repo goes public.
@@ -16,6 +21,7 @@ The repos here are small, practical templates pulled from that work. They're mea
 
 ### Writing
 
+- [Growing Into the Orchestrator Role in the Age of AI](https://bonniedoone.ai/blog/growing-into-the-orchestrator-role)
 - [5 Stripe Integration Mistakes That Cost Startups Money](https://bonniedoone.ai/blog/stripe-integration-mistakes)
 - [What Is an MCP Server (and When Does Your Team Need One)?](https://bonniedoone.ai/blog/what-is-an-mcp-server)
 - [Your AI App Is 90% Done. The Last 10% Is the Hard Part.](https://bonniedoone.ai/blog/ai-app-to-production-last-mile)
