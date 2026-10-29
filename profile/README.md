@@ -1,6 +1,6 @@
 ## Hi, I'm Adam
 
-I run [Bonnie Doone Consulting](https://bonniedoone.ai), a one-person engineering practice that helps growing teams ship AI-powered products without hiring a full team. I spent years on growth teams working on sign-up flows, experiments, payments, and APIs, and these days most of my work is AI apps, MCP servers, and the backend plumbing that makes them reliable.
+I run [Bonnie Doone Consulting](https://bonniedoone.ai), an engineering practice that helps growing teams ship AI-powered products without hiring a full team. You work directly with me, the engineer writing the code. I spent years on growth teams working on sign-up flows, experiments, payments, and APIs, and these days most of my work is AI apps, MCP servers, and the backend plumbing that makes them reliable.
 
 The repos here are small, practical templates pulled from that work. They're meant to be read, copied, and changed. If one saves you a weekend, that's a win.
 
