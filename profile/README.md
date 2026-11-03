@@ -12,9 +12,9 @@ The repos here are small, practical templates pulled from that work. They're mea
 ### Open-source projects
 
 - **[stripe-eventbridge-sqs-go](https://github.com/BonnieDooneConsulting/stripe-eventbridge-sqs-go)**: Stripe events through Amazon EventBridge and SQS to a Go worker, with a LocalStack setup for local testing.
-<!-- Uncomment each line as the repo goes public.
 - **[stripe-webhooks-go](https://github.com/BonnieDooneConsulting/stripe-webhooks-go)**: Stripe webhooks in Go, done carefully. Signature checks, duplicate events skipped, and failures that Stripe actually retries.
 - **[mcp-server-python-starter](https://github.com/BonnieDooneConsulting/mcp-server-python-starter)**: A clean starting point for building your own MCP server in Python, with tests and Claude setup instructions.
+<!-- Uncomment each line as the repo goes public.
 - **[ai-app-launch-checklist](https://github.com/BonnieDooneConsulting/ai-app-launch-checklist)**: What to check before an AI-built prototype goes live with real users and real money.
 - **[swiftui-ai-chat](https://github.com/BonnieDooneConsulting/swiftui-ai-chat)**: A native iOS chat app that streams AI replies, with a tiny Go backend so your API key never ships in the app.
 -->
